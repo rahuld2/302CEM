@@ -21,7 +21,6 @@ public class HomepageMenu extends AppCompatActivity {
             public void onClick(View v) {
                 Intent intent = new Intent(HomepageMenu.this, Maps.class);
                 startActivity(intent);
-
             }
         });
         Button Building = (Button) findViewById(R.id.BtnBuildings);
