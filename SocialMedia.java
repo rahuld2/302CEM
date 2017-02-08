@@ -25,5 +25,4 @@ public class SocialMedia extends AppCompatActivity {
             }
         });
     }
-
 }

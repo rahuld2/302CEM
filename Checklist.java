@@ -25,5 +25,4 @@ public class Checklist extends AppCompatActivity {
             }
         });
     }
-
 }
