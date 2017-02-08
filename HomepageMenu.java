@@ -29,6 +29,7 @@ public class HomepageMenu extends AppCompatActivity {
             public void onClick(View v) {
                 Intent intent = new Intent(HomepageMenu.this, Buildings.class);
                 startActivity(intent);
+
             }
         });
         Button Checklist = (Button) findViewById(R.id.BtnChecklist);
